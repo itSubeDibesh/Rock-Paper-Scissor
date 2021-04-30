@@ -1,0 +1,18 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && open-cli http://localhost:5000 -- chrome && serve ./public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "open-cli": "^6.0.1"
+  }
+}
